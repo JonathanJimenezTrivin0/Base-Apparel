@@ -166,7 +166,7 @@ body {
     .description {
       padding-left: 170px;
       padding-right: 220px;
-      background-image: url(/images/bg-pattern-desktop.svg);
+      background-image: url(../images/bg-pattern-desktop.svg);
       background-repeat: no-repeat;
       background-size: cover;
       display: flex;
